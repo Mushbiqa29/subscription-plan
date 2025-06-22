@@ -21,8 +21,8 @@ This project contains the following files:
 
 ## ✨✨ Live Demo
 
-Add a screenshot named screenshot.png to show the design here.
-
+ https://mushbiqa29.github.io/subscription-plan/
+ 
 ## 📦 Technologies Used
 
 - HTML5  
