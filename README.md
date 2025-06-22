@@ -19,7 +19,7 @@ This project contains the following files:
 - accept.png – The icon for available features (✔).
 - multiplication.png – The icon for unavailable features (✖).
 
-## 📸 Preview
+## ✨✨ Live Demo
 
 Add a screenshot named screenshot.png to show the design here.
 
